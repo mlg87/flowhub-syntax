@@ -2,12 +2,14 @@
   "name": "flowhub-syntax",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "A short description of your syntax theme",
+  "description": "If you work at Flowhub, and don't use this theme... psh, you don't even wanna know.  ( ͡° ͜ʖ ͡°)",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "flowhub",
+    "msmeeve"
   ],
-  "repository": "https://github.com/atom/flowhub-syntax",
+  "repository": "https://github.com/mlg87/flowhub-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
